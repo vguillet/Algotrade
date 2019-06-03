@@ -27,3 +27,7 @@ To run the main program, run dev menu, which calls on the tradebot_1 script whic
 an analysis and performs the buy and trades acitons based on it.
 
 The report along with all documentation is conatained in the Project_resources folder
+
+Code strucure overview:
+
+https://www.lucidchart.com/documents/view/4b29bc36-4080-46cb-bbcd-8e6044177054
