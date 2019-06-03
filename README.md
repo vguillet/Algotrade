@@ -8,7 +8,7 @@ statistical finance referring to its roots in statistical physics."
 https://en.wikipedia.org/wiki/Econophysics
 _______________________________________________________________________________________________
 
-- This library is currently being buit up, come back to this file to stay up to date with the latest developments -
+- This library is currently being buit up, come back to this file to stay up to date with the latest developments
 
 This folder contains the various scripts and codes created for the algorithmics trading 
 project of group 21. It is structured as follows:
