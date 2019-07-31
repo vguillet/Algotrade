@@ -9,7 +9,7 @@ https://en.wikipedia.org/wiki/Econophysics
 _______________________________________________________________________________________________
 
 - This library is currently being built up, come back to this file to stay up to date with the latest developments
-(Contact vguillet regarding for query on latest developments done privately)
+(contact vguillet for query reguarding latest developments done privately)
 
 This folder contains the various scripts and codes created for the algorithmics trading 
 project of group 21. It is structured as follows:
