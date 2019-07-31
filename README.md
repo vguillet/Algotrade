@@ -9,6 +9,7 @@ https://en.wikipedia.org/wiki/Econophysics
 _______________________________________________________________________________________________
 
 - This library is currently being built up, come back to this file to stay up to date with the latest developments
+(Contact vguillet regarding for query on latest developments done privately)
 
 This folder contains the various scripts and codes created for the algorithmics trading 
 project of group 21. It is structured as follows:
@@ -29,5 +30,4 @@ an analysis and performs the buy and trades acitons based on it.
 The report along with all documentation is conatained in the Project_resources folder
 
 Code strucure overview:
-
 https://www.lucidchart.com/documents/view/4b29bc36-4080-46cb-bbcd-8e6044177054
