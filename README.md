@@ -30,3 +30,5 @@ The report along with all documentation is conatained in the Project_resources f
 
 Code strucure overview:
 https://www.lucidchart.com/documents/view/4b29bc36-4080-46cb-bbcd-8e6044177054
+
+This repository is no longer mainained, see Phytrade for the latest development!
